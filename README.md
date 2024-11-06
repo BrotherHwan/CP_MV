@@ -8,4 +8,3 @@ VScode, Linux(Ubuntu)
 ## 시연영상
 <img src="https://github.com/BrotherHwan/CP_MV/blob/main/image_video/cp_mv.gif" width=700 height=400>
 
-[원본영상]()(이 링크의 raw file 다운로드시 좀 더 크고 명확한 영상을 확인하실 수 있습니다. ) 
