@@ -10,5 +10,6 @@ VScode, Linux(Ubuntu)
 ## 수행역할
 관절각도 연산, 유저영상과 정답영상의 관절각도 유사도에 기반한 점수 산출 알고리즘을 구현했습니다.
 ## 시연영상
-<img src="https://github.com/BrotherHwan/CP_MV/blob/main/image_video/cp_mv.gif" width=700 height=400>
+<img src="https://github.com/BrotherHwan/CP_MV/blob/main/image_video/cp_mv.gif" width=700 height=400> 
+
 
