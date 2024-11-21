@@ -1,8 +1,8 @@
 # CP_MV
 ## 프로젝트 목적
 AI모델인 Pose estimation을 활용하여 자세교정 프로그램을 구현합니다.<br/> 
-## 개발환경
-VScode, Linux(Ubuntu)
+## 기술 스택
+![a](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ## 프로그램 로직
 1. Pose Estimation 모델에서 관절 좌표를 얻습니다.<br/>
 2. 좌표를 기반으로 세 점 사이의 각도 연산을 하여 관절의 각도를 구합니다.<br/>
